@@ -7,6 +7,7 @@ Problem Statement
 Walmart faces challenges in understanding customer preferences across diverse product categories and store locations. This study aims to highlight high-demand products, demographic-driven purchasing patterns, and preferred payment methods to support data-driven decision-making.
 
 Key Findings
+
 🔹 Total Revenue & Transactions
     Walmart generated $12.78 million in revenue across 50,000 transactions in 2024.
 
